@@ -37,12 +37,6 @@ A simple and modern To-Do Web Application built using HTML, CSS, and JavaScript.
 This project was created as part of my internship to practice frontend development and build an interactive web application.
 
 ---
+✅ Conclusion
 
-## 👩‍💻 Author
-
-Your Name
-BTech CSE Student
-
----
-
-⭐ Feel free to explore and give feedback!
+This project demonstrates the development of a simple and interactive To-Do Web App using HTML, CSS, and JavaScript. It helped me understand key concepts like DOM manipulation, event handling, and local storage. Overall, this task improved my frontend development skills and gave me hands-on experience in building real-world applications.
